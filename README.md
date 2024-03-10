@@ -2,8 +2,12 @@
 
 This project uses the Healthily DOT platform API combined with LLM prompts Directory of Services (DOS) to match users with appropriate services based on their symptoms.
 
-Healthily sample widget was used to acquire symptoms and diagnosises from a user. (https://github.com/YourMD/healthily-symptom-checker-sample)
-LMM (ChatGPT) was used to match those symptoms with available health care services from "Directory of Services (DOS) (https://www.api.gov.uk/nd/directory-of-healthcare-services-service-search-api/)
+Healthily sample widget was used to acquire symptoms and diagnosises from a user. 
+(https://github.com/YourMD/healthily-symptom-checker-sample)
+
+LMM (ChatGPT) was used to match those symptoms with available health care services from "Directory of Services (DOS) 
+(https://www.api.gov.uk/nd/directory-of-healthcare-services-service-search-api/)
+
 Final page of the sample widget was upgraded to show list of relevant services that matches their symptoms and possible causes.
 
 
