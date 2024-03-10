@@ -21,7 +21,7 @@ import Back from "../../media/back-icon.svg";
 import { useRouter } from "next/router";
 import { openInNewTab } from "@/utils/link";
 
-const API_ENDPOINT = "http://3.128.16.10:8005"
+const API_ENDPOINT = "https://1796-3-128-16-10.ngrok-free.app"
 
 const Consultation: React.FC<{
   report: APIResponse["report"];
