@@ -68,6 +68,9 @@ Example List of Available Services:
 ... (and more)
 ```
 
+## App Demo
+https://referral-ai.vercel.app/
+
 ## Further Development
 
 * We plan to utilize the matched "service names" to find nearby organizations based on proximity. These locations can then be displayed on a map for a visual aid to users.
