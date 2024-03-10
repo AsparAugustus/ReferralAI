@@ -71,3 +71,4 @@ Example List of Available Services:
 ## Further Development
 
 * We plan to utilize the matched "service names" to find nearby organizations based on proximity. These locations can then be displayed on a map for a visual aid to users.
+* Fine tuning LLM model using Articles database could potentially improve performance
