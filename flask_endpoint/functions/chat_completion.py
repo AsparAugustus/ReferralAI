@@ -56,16 +56,16 @@ def get_services(user_prompt):
 
     edited_sys_prompt = f"""Below is a list of all the relevant medical information of a patient. 
     I want you to give me a list of medical departments from a list of departments below that may be relevant to this. 
-    Order the departments by diseases that are most emergency ones, and also the most likely, limited to 5.
+    Order the departments by diseases that are most relevant, limited to 3.
 
-    List answers per line only repeating service name, separated by a newline. 
+    List answers per line only repeating service name, separated by a comma. 
     You are allowed to give multiple answers from the list. Keep in mind that service name can vary.
 
     List of available departments and services:
 
     {list_services} 
 
-    List answers per line only repeating service name, separated by a newline. 
+    List answers per line only repeating service name, separated by a comma. 
 
     Medical information of patient:
     
