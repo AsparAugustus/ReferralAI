@@ -1,0 +1,390 @@
+{
+    "diagnosis_possible": true,
+    "extracted_symptoms": [
+        {
+            "cui": "C0008031",
+            "name": "Chest pain",
+            "severity": "normal"
+        }
+    ],
+    "duration": "Few hours",
+    "additional_symptoms": [
+        {
+            "cui": "C0008033",
+            "name": "Chest pain worse on breathing in",
+            "severity": "normal"
+        },
+        {
+            "cui": "C0012833",
+            "name": "Lightheaded or feeling dizzy",
+            "severity": "normal"
+        },
+        {
+            "cui": "C0013404",
+            "name": "Shortness of breath",
+            "severity": "normal"
+        },
+        {
+            "cui": "C0020578",
+            "name": "Fast or shallow breathing",
+            "severity": "normal"
+        },
+        {
+            "cui": "C0030252",
+            "name": "Feeling your heart racing or skipping a beat",
+            "severity": "normal"
+        },
+        {
+            "cui": "C0038450",
+            "name": "Noisy breathing when breathing in",
+            "severity": "normal"
+        },
+        {
+            "cui": "C0231807",
+            "name": "Shortness of breath only on exertion",
+            "severity": "normal"
+        },
+        {
+            "cui": "C0232288",
+            "name": "Chest pain brought on by physical exertion, exercise or cold air, heavy meal",
+            "severity": "normal"
+        },
+        {
+            "cui": "C0238995",
+            "name": "Sharp chest pain",
+            "severity": "normal"
+        },
+        {
+            "cui": "C0683369",
+            "name": "Confusion",
+            "severity": "normal"
+        },
+        {
+            "cui": "C0849970",
+            "name": "Unusually tired/feeling generally weak",
+            "severity": "normal"
+        },
+        {
+            "cui": "C0857042",
+            "name": "Confusion which is new",
+            "severity": "normal"
+        },
+        {
+            "cui": "C2036381",
+            "name": "Chest pain brought on when stressed",
+            "severity": "normal"
+        },
+        {
+            "cui": "C2073376",
+            "name": "Chest pain worse on coughing",
+            "severity": "normal"
+        },
+        {
+            "cui": "CM000215",
+            "name": "Sudden onset breathlessness",
+            "severity": "normal"
+        },
+        {
+            "cui": "CM000264",
+            "name": "Sudden chest pain",
+            "severity": "normal"
+        },
+        {
+            "cui": "CM001326",
+            "name": "Severe chest pain",
+            "severity": "normal"
+        },
+        {
+            "cui": "CM001457",
+            "name": "Chest pain improved by leaning forward",
+            "severity": "normal"
+        },
+        {
+            "cui": "C1535893",
+            "name": "Orthostatic intolerance",
+            "severity": "normal"
+        },
+        {
+            "cui": "C3263722",
+            "name": "Recent injury",
+            "severity": "normal"
+        },
+        {
+            "cui": "C4740604",
+            "name": "Recent surgery",
+            "severity": "normal"
+        }
+    ],
+    "negative_symptoms": [
+        {
+            "cui": "C0000737",
+            "name": "Abdominal or pelvic pain"
+        },
+        {
+            "cui": "C0003862",
+            "name": "Pain of one or more joints"
+        },
+        {
+            "cui": "C0010200",
+            "name": "Cough"
+        },
+        {
+            "cui": "C0011991",
+            "name": "Diarrhoea"
+        },
+        {
+            "cui": "C0015230",
+            "name": "Skin change on head or body or genitals"
+        },
+        {
+            "cui": "C0015967",
+            "name": "High temperature"
+        },
+        {
+            "cui": "C0019079",
+            "name": "Coughing up blood"
+        },
+        {
+            "cui": "C0023222",
+            "name": "Pain in leg (thigh or knee or lower leg or ankle)"
+        },
+        {
+            "cui": "C0028961",
+            "name": "Passing no or minimal urine for over 12 hours"
+        },
+        {
+            "cui": "C0036572",
+            "name": "Fits/seizure"
+        },
+        {
+            "cui": "C0039070",
+            "name": "Brief loss of consciousness"
+        },
+        {
+            "cui": "C0043144",
+            "name": "Wheeze (noise on breathing out)"
+        },
+        {
+            "cui": "C0085619",
+            "name": "Shortness of breath when lying flat"
+        },
+        {
+            "cui": "C0231528",
+            "name": "Aching muscles all over body"
+        },
+        {
+            "cui": "C0239008",
+            "name": "Chest pain caused by pressing on chest"
+        },
+        {
+            "cui": "C0242429",
+            "name": "Sore throat"
+        },
+        {
+            "cui": "C0476273",
+            "name": "Unable to talk in full sentences at rest"
+        },
+        {
+            "cui": "C1398357",
+            "name": "Neck lump or neck swelling(s)"
+        },
+        {
+            "cui": "C1956415",
+            "name": "Shortness of breath that wakes you from sleep"
+        },
+        {
+            "cui": "C1960981",
+            "name": "Chest pain radiating to jaw/arm/neck/shoulder"
+        },
+        {
+            "cui": "C2073357",
+            "name": "Chest pain relieved completely by rest"
+        },
+        {
+            "cui": "C2712054",
+            "name": "Shortness of breath on exertion and at rest"
+        },
+        {
+            "cui": "C4062321",
+            "name": "Feeling so ill that you cannot do usual activities"
+        },
+        {
+            "cui": "CM000258",
+            "name": "Chest pain worse on moving the chest wall e.g. twisting"
+        },
+        {
+            "cui": "CM000413",
+            "name": "Swelling of any area of the body (including head or neck)"
+        },
+        {
+            "cui": "CM000775",
+            "name": "Unintentional weight loss"
+        },
+        {
+            "cui": "CM001477",
+            "name": "Heavy/pressure/crushing/squeezing sensation in chest"
+        },
+        {
+            "cui": "CM001563",
+            "name": "Tearing or ripping chest pain"
+        },
+        {
+            "cui": "C0032961",
+            "name": "Pregnancy"
+        },
+        {
+            "cui": "CM000470",
+            "name": "Recent infection"
+        }
+    ],
+    "unsure_symptoms": [],
+    "consultation_triage": {
+        "triage": "emergency_symptoms",
+        "triage_advice": "The following combination you reported is concerning: <b>chest pain, chest pain worse on breathing in, confusion which is new, fast or shallow breathing, feeling your heart racing or skipping a beat, lightheaded or feeling dizzy, noisy breathing when breathing in, severe chest pain, shortness of breath and sudden chest pain</b> for <b>few hours<b>. <b>Call an ambulance immediately</b>.",
+        "level": "emergency_ambulance_symptom"
+    },
+    "articles": [],
+    "articles_v3": [
+        {
+            "yourmd_id": "toxic-shock-syndrome",
+            "name": "Toxic shock syndrome",
+            "condition": {
+                "cui": "C0600327",
+                "probalility": 1,
+                "adzones": []
+            },
+            "content": {
+                "name": "Toxic shock syndrome",
+                "medical_name": "Toxic shock syndrome",
+                "snippet": "Toxic shock syndrome is a rare, but life-threatening bacterial infection. It occurs when bacteria enter the bloodstream and release toxins.",
+                "triage": {
+                    "triage": "emergency",
+                    "triage_advice": "",
+                    "triage_diagnostic": "Your doctor may suspect toxic shock syndrome based on your symptoms, medical history and a physical examination. \n\nAdditional tests to confirm the diagnosis and identify the bacteria that caused the infection may include: \n\n- blood tests, including blood cultures,\n- urine tests \n- chest X-ray",
+                    "triage_treatment": "**How can I manage it?** \n\nToxic shock syndrome is a medical emergency that needs urgent treatment. Do not try to self-care first.\n\n**How can a health professional help?**\n\nToxic shock syndrome must be treated in hospital. The treatment usually includes:\n\n- supportive care - such as oxygen and fluids given through a vein \n- antibiotics, and in severe cases antibodies (immunoglobulins)\n- surgery to remove unhealthy tissue",
+                    "triage_worries": "",
+                    "triage_message": "This condition needs emergency medical treatment",
+                    "triage_level": "emergency_ambulance"
+                }
+            },
+            "substitution": "no",
+            "substitute_articles": [],
+            "urls": {
+                "web": "https://www.livehealthily.com/health-library/conditions/toxic-shock-syndrome",
+                "mobile": "https://www.livehealthily.com/e/health-library/conditions/toxic-shock-syndrome"
+            },
+            "metadata": {
+                "reading_time_minutes": 7,
+                "category_id": "infectious-diseases",
+                "category_name": "Infectious diseases"
+            }
+        }
+    ],
+    "consultation_id": "e8652841-bd0d-44f4-961f-1c7c6115e7e9",
+    "notifications": [],
+    "influencing_factors": [
+        {
+            "cui": "C0004096",
+            "type": "if_bool",
+            "rank": 5,
+            "name": "Asthma",
+            "long_name": "Asthma",
+            "value": {
+                "not_sure": false,
+                "value": false
+            }
+        },
+        {
+            "cui": "C0011849",
+            "type": "if_bool",
+            "rank": 4,
+            "name": "Diabetes",
+            "long_name": "Diabetes",
+            "value": {
+                "not_sure": false,
+                "value": false
+            }
+        },
+        {
+            "cui": "C0028754",
+            "type": "if_bool",
+            "rank": 1,
+            "name": "Obesity",
+            "long_name": "Obesity",
+            "value": {
+                "not_sure": false,
+                "value": true
+            }
+        },
+        {
+            "cui": "C0020538",
+            "type": "if_bool",
+            "rank": 3,
+            "name": "High BP",
+            "long_name": "High blood pressure",
+            "value": {
+                "not_sure": false,
+                "value": true
+            }
+        },
+        {
+            "cui": "C0403447",
+            "type": "if_bool",
+            "rank": 7,
+            "name": "CKD",
+            "long_name": "Chronic kidney disease",
+            "value": {
+                "not_sure": false,
+                "value": false
+            }
+        },
+        {
+            "cui": "C0038454",
+            "type": "if_bool",
+            "rank": 9,
+            "name": "Stroke",
+            "long_name": "Previous stroke(s)",
+            "value": {
+                "not_sure": false,
+                "value": false
+            }
+        },
+        {
+            "cui": "C0010054",
+            "type": "if_bool",
+            "rank": 6,
+            "name": "CHD",
+            "long_name": "Coronary Heart Disease",
+            "value": {
+                "not_sure": false,
+                "value": true
+            }
+        },
+        {
+            "cui": "C0337664",
+            "type": "if_bool",
+            "rank": 2,
+            "name": "Smoker",
+            "long_name": "Smoker",
+            "value": {
+                "not_sure": false,
+                "value": true
+            }
+        },
+        {
+            "cui": "C0024117",
+            "type": "if_bool",
+            "rank": 8,
+            "name": "COPD",
+            "long_name": "Chronic obstructive lung disease",
+            "value": {
+                "not_sure": false,
+                "value": false
+            }
+        }
+    ],
+    "user_profile": {
+        "year_of_birth": 1987,
+        "gender": "female"
+    }
+}

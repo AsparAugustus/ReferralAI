@@ -1,0 +1,26 @@
+2024-03-09 12:29:08 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 12:29:08 : None
+2024-03-09 12:38:35 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 12:38:35 : None
+2024-03-09 12:42:39 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 12:42:39 : None
+2024-03-09 12:43:41 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 12:43:41 : None
+2024-03-09 12:48:16 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 12:48:16 : None
+2024-03-09 12:59:34 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 12:59:34 : None
+2024-03-09 13:29:51 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 13:29:51 : None
+2024-03-09 13:32:12 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 13:32:12 : None
+2024-03-09 13:32:49 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 13:32:49 : None
+2024-03-09 13:34:24 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 13:34:24 : None
+2024-03-09 13:36:02 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 13:36:02 : None
+2024-03-09 13:37:01 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 13:37:01 : None
+2024-03-09 13:39:50 : Error: local variable 'assistant_reply' referenced before assignment
+2024-03-09 13:39:50 : None
