@@ -202,7 +202,7 @@ const Consultation: React.FC<{
           )}
 
             {componentLoaded && (
-              <GenericBox items={useLocations} />
+              <GenericBox items={useLocations ?? []} />
             )}
           
 
